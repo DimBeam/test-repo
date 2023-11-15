@@ -1,3 +1,5 @@
+//Deterministic approach to K-Means Clustering Algorithm 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "math.h"
@@ -20,7 +22,6 @@ main()
 	int k,i,j;
 	float prev=0,derivative;
 	read_data();
-//	find_lim();
 	
 	printf("Give Number of Clusters:");
 	scanf("%d",&k);
