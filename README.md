@@ -1,2 +1,2 @@
 # test-repo
-Random Projects 
+ Projects 
