@@ -1,4 +1,4 @@
-#Cat or Dog Predictor
+#Cat or Dog Classifier  
 
 # Importing the libraries
 import tensorflow as tf
